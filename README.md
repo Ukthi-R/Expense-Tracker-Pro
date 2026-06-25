@@ -6,15 +6,15 @@ A modern and responsive expense tracking application designed to help users mana
 
 ### Dashboard
 
-![Dashboard](./Dashboard.png)
+<img width="1366" height="728" alt="Dashboard" src="https://github.com/user-attachments/assets/111156cf-542e-44ed-9ed5-2e3ba95eb323" />
 
 ### Transaction Management
 
-[Add Transaction Screenshot]
+<img width="1366" height="728" alt="Transactions" src="https://github.com/user-attachments/assets/a7621c8c-816a-4a35-b781-00e397949a90" />
 
 ### AI Financial Advisor
 
-[Add AI Advisor Screenshot]
+<img width="1366" height="728" alt="AI Financial Advisor" src="https://github.com/user-attachments/assets/0c018d09-bdd8-4d45-8440-2fc7a01cd082" />
 
 ## 🚀 Features
 
@@ -45,5 +45,7 @@ A modern and responsive expense tracking application designed to help users mana
 ## 📧 Contact
 
 LinkedIn: [www.linkedin.com/in/ukthir](http://www.linkedin.com/in/ukthir)
+
+Email: [ukthiramesh2003@gmail.com](mailto:ukthiramesh2003@gmail.com)
 
 GitHub: https://github.com/Ukthi-R
