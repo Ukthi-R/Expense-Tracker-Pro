@@ -6,7 +6,7 @@ A modern and responsive expense tracking application designed to help users mana
 
 ### Dashboard
 
-![Dashboard](./dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ### Transaction Management
 
